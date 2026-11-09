@@ -1,0 +1,737 @@
+{
+  "BOH": {
+    "chapter": "波希米亚与胡斯派",
+    "zh": "卢森堡家族的西吉斯蒙德兼有波希米亚王冠和神圣罗马帝国皇位。胡斯被处死后，战火在波希米亚持续多年；天主教联军虽在1434年击败塔波尔派和孤儿派，胡斯派却在摩拉维亚站稳了脚跟。瓦尔纳之战又夺去了皇帝原定继承人，王冠的归属悬而未决。",
+    "en": "Sigismund of Luxembourg holds the Bohemian crown and the imperial throne. The execution of Jan Hus brought years of war. A Catholic coalition defeated the Taborites and Orphans in 1434, but a Hussite government survived in Moravia. Sigismund's chosen heir fell at Varna, leaving the succession unsettled."
+  },
+  "MVA": {
+    "chapter": "波希米亚与胡斯派",
+    "zh": "1434年，塔波尔派和孤儿派被天主教联军击败，但胡斯派在当地信众支持下于摩拉维亚建立了神权政府，延续塔波尔派的传统。西吉斯蒙德无力继续进军，摩拉维亚成为周边胡斯信徒的重要据点。",
+    "en": "The Taborites and Orphans lost to the Catholic coalition in 1434, but local Hussites established a theocracy in Moravia and revived the Taborite tradition. Sigismund could not press the war further, leaving Moravia a rallying point for Hussites in neighboring lands."
+  },
+  "SLO": {
+    "chapter": "波希米亚与胡斯派",
+    "zh": "胡斯战争结束后，胡斯派的影响仍越过摩拉维亚边界，深入斯洛伐克的山地。匈牙利屡次镇压当地信众，却始终未能根除他们；摩拉维亚的胡斯派政权也让他们看到反抗的希望。",
+    "en": "After the Hussite Wars, the movement spread beyond Moravia into the Slovak hills. Repeated Hungarian suppression failed to uproot the local congregations, and the Hussite government across the border gave them hope of resisting."
+  },
+  "HUN": {
+    "chapter": "匈牙利王国",
+    "zh": "匈牙利是西吉斯蒙德帝国的重要支柱，却在瓦尔纳折损了大批亲近帝国的贵族。「白骑士」亚诺什·匈雅提从败军中带回皇帝授予继承人的旗帜，凭借战前积累的声望在国内站稳脚跟。战败留下的裂痕，动摇了王国与帝国的关系。",
+    "en": "Hungary was a pillar of Sigismund's empire, but many nobles close to the emperor fell at Varna. John Hunyadi, the White Knight, escaped with the standard the emperor had given his heir. Hunyadi's standing at home endured; the defeat left Hungary's ties to the empire strained."
+  },
+  "FKN": {
+    "chapter": "法兰克尼亚与哈布斯堡家族",
+    "zh": "法兰克尼亚是《金玺诏书》确立的选侯之一。公爵海因里希五世无子，经贵族议会同意，指定外孙、哈布斯堡家族的腓特烈三世为继承人。长期内耗削弱了公爵对各地的控制，即便最强大的封臣符腾堡也难以号令全境。",
+    "en": "The Golden Bull made Franconia an electorate. With no son to succeed him, Duke Henry V named his Habsburg grandson Frederick III as heir with the consent of the nobility. Years of internal strife have weakened ducal rule, and even Württemberg, the strongest vassal, cannot command the entire duchy."
+  },
+  "WUR": {
+    "chapter": "法兰克尼亚与哈布斯堡家族",
+    "zh": "未能继承奥地利的哈布斯堡家族转向施瓦本，成为符腾堡伯爵和法兰克尼亚最强的封臣。阿尔布雷希特战死瓦尔纳后，弟弟腓特烈三世为遗腹子拉迪斯劳斯摄政。家族的联姻还为腓特烈带来了法兰克尼亚和奥地利的继承机会。",
+    "en": "With Austria still in Babenberg hands, the Habsburgs built their power in Swabia and became counts of Württemberg and Franconia's strongest vassals. After Albert died at Varna, his brother Frederick III took the regency for Albert's posthumous son Ladislaus. Marriage ties also gave Frederick a chance to inherit Franconia and Austria."
+  },
+  "H02": {
+    "chapter": "奥地利与巴本堡家族",
+    "zh": "巴本堡家族从帝国的东部边疆起家，在奥地利延续了数百年。老公爵膝下无子，倾向让女婿、符腾堡的腓特烈三世继承；奥地利大贵族则希望从卡林西亚的策林根家族和巴伐利亚的维特尔斯巴赫家族中另选摄政。",
+    "en": "The Babenbergs have ruled Austria for centuries, beginning on the empire's eastern frontier. The aging duke has no son and favors his son-in-law Frederick III of Württemberg as heir. The Austrian nobility instead wants a regent from either the Zähringens of Carinthia or the Wittelsbachs of Bavaria."
+  },
+  "H01": {
+    "chapter": "奥地利与巴本堡家族",
+    "zh": "策林根家族在卡林西亚和蒂罗尔掌握大片领地。巴本堡家族面临绝嗣时，策林根的施泰尔马克伯爵以远亲身份被推为奥地利摄政人选，家族也借此挑战符腾堡的哈布斯堡继承权。",
+    "en": "The Zähringens hold extensive lands in Carinthia and Tyrol. As the Babenberg line nears its end, the Zähringen count of Styria has emerged as a candidate for the Austrian regency. His family sees the appointment as a chance to contest the Habsburg claim."
+  },
+  "LBV": {
+    "chapter": "巴伐利亚的维特尔斯巴赫家族",
+    "zh": "巴伐利亚分家后，兰茨胡特保住了维特尔斯巴赫的选侯席位。「智者」格奥尔格一世通过与萨尔茨堡结盟掌握了盐业要道，并因家族约定成为英戈尔施塔特的潜在继承人。皇帝迟暮，统一巴伐利亚的机会渐渐浮现。",
+    "en": "Landshut kept the Wittelsbach electoral seat after Bavaria was partitioned. George the Wise secured the salt trade through an alliance with Salzburg and stands to inherit Ingolstadt under a family agreement. With the emperor aging, a chance to reunite Bavaria is opening."
+  },
+  "UBV": {
+    "chapter": "巴伐利亚的维特尔斯巴赫家族",
+    "zh": "慕尼黑是瓜分巴伐利亚的维特尔斯巴赫三支之一。富有的公爵阿尔布雷希特三世曾借钱给西吉斯蒙德，如今借这笔债务与皇帝交涉，希望取得雷根斯堡等帝国城市。其他巴伐利亚诸侯也在争取雷根斯堡。",
+    "en": "Munich is one of three Wittelsbach branches ruling a divided Bavaria. Its wealthy duke, Albert III, lent money to Sigismund and now uses the debt to bargain for imperial cities such as Regensburg. The other Bavarian dukes are pursuing the city as well."
+  },
+  "ING": {
+    "chapter": "巴伐利亚的维特尔斯巴赫家族",
+    "zh": "英戈尔施塔特是巴伐利亚分家后的三大公国之一，曾与慕尼黑、兰茨胡特争夺施特劳宾的遗产。如今公爵路德维希八世病重无子，按家族约定，若他无嗣而终，领地将由兰茨胡特选侯接收。",
+    "en": "Ingolstadt is one of the three duchies created by Bavaria's division and once disputed the Straubing inheritance with Munich and Landshut. Duke Louis VIII is now gravely ill and childless. Under the family agreement, the elector of Landshut will inherit if Louis dies without an heir."
+  },
+  "REG": {
+    "chapter": "巴伐利亚的维特尔斯巴赫家族",
+    "zh": "雷根斯堡是帝国自由市，数十年来向西吉斯蒙德借下巨款。皇帝顾忌追债会动摇城市政局，迟迟没有催缴；觊觎这座城的巴伐利亚诸侯则打算利用债务争取管辖权。",
+    "en": "The free imperial city of Regensburg has accumulated substantial debts to Sigismund over several decades. The emperor fears that calling them in would destabilize the city, while Bavarian dukes see the debt as a way to secure control of it."
+  },
+  "SAX": {
+    "chapter": "萨克森的韦尔夫家族",
+    "zh": "韦尔夫家族曾在「狮子」亨利手中威震北德意志，后来虽失去不少领地，萨克森仍是帝国西北的支柱。公爵兼任选侯和帝国大元帅，守备洛塔林吉亚与斯堪的纳维亚方向；摩拉维亚的胡斯派也给东部带来压力。",
+    "en": "The Welfs dominated northern Germany under Henry the Lion. Though they lost much of his territory, Saxony remains a mainstay of the empire's northwest. Its dukes are electors and imperial marshals, guarding against Lotharingia and Scandinavia while the Hussites of Moravia pose a threat to the east."
+  },
+  "H03": {
+    "chapter": "诺德马克的阿斯坎尼家族",
+    "zh": "「熊」阿尔伯特的后裔在帝国东北开拓边疆，却长期受分家继承和皇权牵制。勃兰登堡主支绝嗣后，选侯席位转交诺德马克支系。如今的藩侯仍受到布拉格的压力，也从未放弃家族对萨克森的旧日追求。",
+    "en": "The descendants of Albert the Bear carved out lands on the empire's northeastern frontier, but inheritance divisions and imperial pressure held them back. When the Brandenburg line died out, its electoral seat passed to Nordmark. The margraves still face pressure from Prague and have not abandoned their family's ambitions in Saxony."
+  },
+  "H04": {
+    "chapter": "上艾瑟尔的格鲁尔芬根家族",
+    "zh": "格鲁尔芬根家族的次支在荷兰继承战争中败给维特尔斯巴赫家族，失去了富庶的荷兰。皇帝为制衡巴伐利亚，授予上艾瑟尔「弗里西亚王副」称号、明斯特的管理权和选侯席位。如今上艾瑟尔已是帝国在低地难以忽视的强藩。",
+    "en": "The junior Gerulfing branch lost the wealthy county of Holland to the Wittelsbachs in the War of the Holland Succession. To counter Bavaria, the emperor gave Overijssel the title of Viceroy of Frisia, authority over Münster and an electoral seat. It has since become a major power in the Low Countries."
+  },
+  "EFR": {
+    "chapter": "上艾瑟尔的格鲁尔芬根家族",
+    "zh": "东弗里斯兰曾由荷兰的格鲁尔芬根家族长房统治，后在荷兰继承战争中脱离其控制。上艾瑟尔保证它的独立，双方保持良好关系；格鲁尔芬根家族仍视它为日后可以整合的旧地。",
+    "en": "East Frisia was ruled by the senior Gerulfing line in Holland until the War of the Holland Succession. Overijssel guarantees its independence and maintains friendly ties, though the Gerulfings still hope to bring the territory into their domain."
+  },
+  "BRA": {
+    "chapter": "勃兰登堡与霍亨索伦家族",
+    "zh": "勃兰登堡在阿斯坎尼家族主支绝嗣后落入卢森堡家族手中，选侯席位却转给了诺德马克。西吉斯蒙德的继承危机给霍亨索伦家族带来机会：他们已和符腾堡的哈布斯堡家族秘密谈妥，准备用法兰克尼亚的领地与财力换取入主勃兰登堡的支持。",
+    "en": "Brandenburg passed to the Luxembourgs when the senior Ascanian line died out, while its electoral seat went to Nordmark. Sigismund's succession crisis offers the Hohenzollerns an opening: they have secretly offered lands and wealth in Franconia in return for Habsburg support for their bid to rule Brandenburg."
+  },
+  "WOL": {
+    "chapter": "波美拉尼亚的格里芬家族",
+    "zh": "沃尔加斯特由波美拉尼亚格里芬家族的长支统治，与斯德丁同出一脉。诸支分立、德意志城市势力上升，使这个波罗的海公国难以团结。梅克伦堡支系已因继承问题失去领地，沃尔加斯特也必须防备邻邦觊觎。",
+    "en": "Wolgast is ruled by the senior branch of the Griffins of Pomerania, kin to the dukes of Stettin. Dynastic divisions and the growing power of German towns complicate rule on the Baltic coast. The Mecklenburg branch has already lost its lands in a succession dispute, a warning to Wolgast."
+  },
+  "STE": {
+    "chapter": "波美拉尼亚的格里芬家族",
+    "zh": "斯德丁是格里芬家族在波美拉尼亚的另一支公国。德意志移民推动了当地农商发展，也加深了城市和乡间的分歧。格里芬诸支未确立长子继承制，内斗和邻国的扩张都威胁着斯德丁的存续。",
+    "en": "Stettin is the other Griffin duchy in Pomerania. German settlement has expanded farming and trade but widened the divide between towns and countryside. Without primogeniture, feuds among the Griffin branches and pressure from neighboring rulers threaten Stettin's survival."
+  },
+  "HOL": {
+    "chapter": "荷兰",
+    "zh": "低地的航运和纺织让荷兰成为大西洋沿岸的商业重镇。格鲁尔芬根长支绝嗣后，维特尔斯巴赫家族经继承战争取得荷兰最富庶的土地。如今商会掌握着贸易命脉，海峡两岸的港口是他们维系海上生意的关键。",
+    "en": "Shipping and textiles made Holland a commercial center on the Atlantic. When the senior Gerulfing line died out, the Wittelsbachs won its richest lands in a succession war. Merchant guilds now hold the reins of trade, and access to ports on both sides of the Channel is vital to their fortunes."
+  },
+  "H07": {
+    "chapter": "魏玛",
+    "zh": "波希米亚夺取魏玛后，扶立了由卢森堡家族把持的共和国。苛重的粮税引发托马斯·迈森领导的农民起义，起义在1443年遭到镇压。如今西吉斯蒙德撤走了魏玛的捷克贵族，城中的反抗者重新看到了机会。",
+    "en": "After taking Weimar, Bohemia established a republic staffed by Luxembourg appointees. Grain levies provoked a peasant revolt under Thomas of Meissen, crushed in 1443. Sigismund has since withdrawn the Czech nobility from Weimar, giving local opponents of his rule a new opening."
+  },
+  "MEI": {
+    "chapter": "魏玛",
+    "zh": "图林根战争后，波希米亚从韦廷家族手中夺走魏玛和迈森。胡斯战争期间，沉重的征敛激起了托马斯·迈森领导的农民起义，波及图林根和迈森。起义虽在1443年被镇压，皇帝的统治根基也已受到冲击。",
+    "en": "After the Thuringian War, Bohemia took Weimar and Meissen from the Wettins. Levies during the Hussite Wars provoked a peasant rising under Thomas of Meissen that spread across the region. It was crushed in 1443, but the emperor's authority had been shaken."
+  },
+  "LOT": {
+    "chapter": "洛塔林吉亚的加洛林王朝",
+    "zh": "洛塔林吉亚由兹温蒂博尔德的后代统治，是加洛林王朝最后的延续。王国在四国战争中未能夺取法兰西王位，国内的法语宫廷与德意志贵族又日益离心。路德维希七世年迈，年幼的贝尔娜黛特面临继承争议，1443年的梅斯叛乱已为王室敲响警钟。",
+    "en": "Zwentibold's descendants rule Lotharingia as the last surviving Carolingian dynasty. The War of the Four Kingdoms ended its bid for the French crown, while the French-speaking court and German nobility drifted apart. With Louis VII aging, young Bernadette's succession is contested, and the Metz revolt of 1443 exposed the crown's weakness."
+  },
+  "BRG": {
+    "chapter": "洛塔林吉亚的加洛林王朝",
+    "zh": "于利希–贝格家族自称出自东法兰克国王「孩童」路易。洛塔林吉亚夺走了他们的于利希领地，家族则保住贝格及对科隆城的掌控。公爵格哈德与王室矛盾渐深，被视为德意志贵族反对贝尔娜黛特继位的领袖。",
+    "en": "The House of Jülich-Berg traces its lineage to Louis the Child of East Francia. Lotharingia took its lands in Jülich, but the family held on to Berg and control of Cologne. Duke Gerhard's conflict with the crown has made him a likely leader of German opposition to Bernadette's succession."
+  },
+  "FRA": {
+    "chapter": "法兰西的卡佩王朝",
+    "zh": "卡佩王室借新封臣之力扩大直辖领地，也激起地方贵族的抵制。阿朗松倒向英格兰后，洛塔林吉亚和阿尔勒相继参战。奥尔良的让娜·达克守住兰斯，于格七世于1432年在此加冕，并在1438年击退外敌；「胜利王」如今还要面对谋求自治的封臣。",
+    "en": "The Capetians expanded royal lands with the help of new vassals, provoking resistance from the nobility. Alençon defected to England, and Lotharingia and Arles entered the war. Joan of Arc held Reims, where Hugh VII was crowned in 1432. The Victorious King defeated the invaders by 1438 and now faces vassals seeking greater autonomy."
+  },
+  "ALE": {
+    "chapter": "法兰西的卡佩王朝",
+    "zh": "阿朗松公爵不满法王的排挤，在英格兰和洛塔林吉亚的支持下于1428年改投英格兰。于格六世试图夺回公国，却在围攻卡昂时受伤，随后被洛塔林吉亚国王俘虏。这场决裂由此演变成四国战争。",
+    "en": "Resenting the French crown's treatment, the duke of Alençon defected to England in 1428 with English and Lotharingian encouragement. Hugh VI tried to recover the duchy but was wounded at Caen and captured by the king of Lotharingia. The rupture escalated into the War of the Four Kingdoms."
+  },
+  "BER": {
+    "chapter": "法兰西的卡佩王朝",
+    "zh": "1425年贝里公爵绝嗣，王室诸侯和骑士诸侯为继承人相持不下，市民也参与了争夺。经法王调解，罗贝尔·德·勃艮第继承了公爵私产，贝里市民则取得自治权，可以推举市政官，再由法王任命。",
+    "en": "When the duke of Berry died without an heir in 1425, royal and knightly nobles backed competing claimants and the townspeople entered the dispute. The king brokered a settlement: Robert of Burgundy inherited the duke's private property, while Berry's citizens won the right to choose municipal officers subject to royal confirmation."
+  },
+  "FLA": {
+    "chapter": "法兰西的卡佩王朝",
+    "zh": "佛兰德曾是洛塔林吉亚的富庶领地，在洛塔林吉亚与勃艮第公爵联手对抗卡佩王室失败后落入法王之手。此后佛兰德成为骑士诸侯的重镇，逐渐向主张扩大封臣自治权的公益同盟靠拢。",
+    "en": "Flanders was a wealthy Lotharingian possession until a failed alliance with the duke of Burgundy cost Lotharingia the territory. Under French rule, Flanders became a stronghold of the knightly nobility and drew closer to the League of the Public Weal, which sought greater autonomy for the king's vassals."
+  },
+  "FCC": {
+    "chapter": "公益同盟和勃艮第联盟",
+    "zh": "弗朗什孔泰是勃艮第联盟最大的伯国，也是名义上的盟主。伯国在封建关系上效忠法王，在法理上又属于神圣罗马帝国。这个双重身份让它可以借帝国牵制巴黎，也使它处于两方角力的前沿。",
+    "en": "Franche-Comté is the largest county and nominal leader of the Burgundian League. It owes feudal allegiance to France but is legally part of the Holy Roman Empire. This dual position gives the county a way to check Paris through the empire and places it on the front line of their rivalry."
+  },
+  "PTU": {
+    "chapter": "普瓦图与王国",
+    "zh": "普瓦图是法兰西最有权势的封臣之一，数任公爵出任王国首相。现任公爵腓力二世在四国战争期间主持政务，有「王叔摄政王」之称；他在于格七世与地方诸侯之间周旋，也在为自家的卡佩支系积累影响力。",
+    "en": "Poitou is one of France's most powerful vassals, and several of its dukes have served as chief minister. Philip II directed royal affairs during the War of the Four Kingdoms and became known as the king's uncle and regent. He mediates between Hugh VII and the regional lords while building influence for his own Capetian branch."
+  },
+  "BRI": {
+    "chapter": "吉勒·德·蒙莫朗西-雷斯与布列塔尼",
+    "zh": "四国战争中，法军元帅吉勒·德·蒙莫朗西-雷斯曾与贞德并肩作战。得到法王援助后，他相继攻取南特和雷恩，于1430年加冕为布列塔尼公爵。他恢复三级议会传统以争取本地支持，旧家族的拥护者仍在散播关于他的流言。",
+    "en": "Gilles de Montmorency-Rais fought alongside Joan of Arc and became a marshal of France. With royal support he captured Nantes and Rennes and was crowned duke of Brittany in 1430. He restored the traditional estates to win local support, while adherents of the old house continued to spread rumors about him."
+  },
+  "AEL": {
+    "chapter": "清洁派与阿尔勒王国",
+    "zh": "清洁派在南法扎根，图卢兹的雷蒙德家族先后挫败两次阿尔比十字军。1260年，雷蒙德七世在艾克斯加冕为阿尔勒国王，与法王和罗马教会决裂。阿维尼翁成为清洁派的宗教中心，王廷掌握了境内大部分教会事务。",
+    "en": "Catharism took root in southern France, and the Raymonds of Toulouse repelled two Albigensian crusades. Raymond VII was crowned king of Arles at Aix in 1260, breaking with the French king and Rome. Avignon became a Cathar religious center, while most church affairs in the kingdom came under the royal court."
+  },
+  "AVI": {
+    "chapter": "清洁派总主教英诺森·德·圣西尔(英诺森三世)",
+    "zh": "阿维尼翁曾供奉清洁派教宗。教宗头衔在1399年被废，此后德·圣西尔家族世袭总主教，现由英诺森三世担任。他的正式权力主要限于城中，却通过安插亲族和门生在阿尔勒教会保持影响力。",
+    "en": "Avignon once housed the Cathar pope. After the papacy was abolished in 1399, the de Saint-Cyr family made the archbishopric hereditary. Innocent III now holds the title; his formal authority is largely confined to the city, but relatives and protégés give him influence across the Church of Arles."
+  },
+  "FOI": {
+    "chapter": "富瓦伯爵路易二世·德·富瓦",
+    "zh": "比利牛斯山脚的富瓦伯爵长期坚持自己是图卢兹的盟友。富瓦家族多人曾在阿尔比十字军中为南法一方效力并受封领地；阿尔勒建国之后，这段渊源让路易二世的宫廷在南法仍有举足轻重的地位。",
+    "en": "The counts of Foix, at the foot of the Pyrenees, long insisted on their status as allies of Toulouse. Several members of the family served the southern lords during the Albigensian crusades and received grants of land. Those ties kept Louis II's court influential in southern France after the founding of Arles."
+  },
+  "IRE": {
+    "chapter": "爱尔兰",
+    "zh": "爱尔兰在1204年摆脱金雀花王朝后，诸侯割据了两百余年。自称古代至高王后裔的帕特里克·麦克·亚特于1440年从阿尔斯特起兵，统一全岛，以改革海岛基督教为承诺换取教宗加冕。贵族的特权与尚未解决的继承问题，仍让新王国面临分裂的危险。",
+    "en": "Ireland threw off Plantagenet rule in 1204 and remained divided for over two centuries. Patrick Mac Airt, who claims descent from an ancient High King, rose in Ulster in 1440 and united the island. The pope crowned him in return for a promise to reform the Insular Church. Noble privileges and an unsettled succession still threaten the new kingdom."
+  },
+  "ENG": {
+    "chapter": "英格兰",
+    "zh": "从《大宪章》到多次诸侯战争，金雀花王室的权力不断受限。威尔士、东盎格利亚、约克和麦西亚诸城相继脱离伦敦，四国战争又以败北告终。理查六世指定新生的女儿玛格丽特继承王位，原本继承在望的弟弟约翰心怀不满。",
+    "en": "The Magna Carta and successive baronial wars curtailed Plantagenet power. Wales, East Anglia, York and the Mercian towns broke away, and England lost the War of the Four Kingdoms. Richard VI has named his newborn daughter Margaret his heir, displacing his brother John and leaving him resentful."
+  },
+  "NFK": {
+    "chapter": "罗拉德派",
+    "zh": "第三次诸侯战争获胜后，诺福克伯爵得以重建东盎格利亚公国。罗拉德派在当地扎根，戈德温家族最终脱离伦敦。公爵设立服从于自己的罗拉德委员会，管理信众，也为公国提供支持。",
+    "en": "Victory in the Third Barons' War allowed the earl of Norfolk to revive the duchy of East Anglia. Lollardy took root there, and the Godwins eventually broke with London. A Lollard council answers to the duke, oversees the faithful and gives the duchy political support."
+  },
+  "SCO": {
+    "chapter": "苏格兰",
+    "zh": "挪威的玛格丽特早夭后，1291年的佩尔斯会议确立了苏格兰的选王制度，挫败英格兰干涉王位的企图。布鲁斯家族的亚历山大四世吸纳小贵族、市民和教士进入选王议会，以洛锡安为中心加强王权，并将目光投向英格兰北部。",
+    "en": "After Margaret of Norway died young, the Perth Assembly of 1291 established an elective monarchy and foiled English interference in the succession. Alexander IV Bruce has admitted lesser nobles, townspeople and clergy to the electoral assembly. His reforms strengthen royal authority from Lothian, and his ambitions reach into northern England."
+  },
+  "NOL": {
+    "chapter": "英格兰；苏格兰",
+    "zh": "出身苏格兰贵族的吉尔伯特·德·乌姆弗拉维尔趁英格兰诸侯战争占据诺森伯兰，亨利三世只得默许其半独立地位。家族由此在英格兰北部扎根，也在苏格兰的选王制度下成为王位的潜在竞争者。",
+    "en": "Gilbert de Umfraville, a Scottish noble, took Northumberland during England's baronial wars, and Henry III had little choice but to accept its semi-independence. The family gained a foothold in northern England and became a potential contender for Scotland's elective crown."
+  },
+  "WLS": {
+    "chapter": "威尔士",
+    "zh": "欧文·格兰道尔在1400年起兵反抗英格兰，得到苏格兰、法兰西等外援，最终在1405年争得独立。如今亲王阿梅尔·格兰道尔病重，家族后继无人，他已向苏格兰的亚历山大四世提议，由对方为威尔士引荐继承人。",
+    "en": "Owain Glyndŵr rose against England in 1400. With help from Scotland, France and other allies, Wales secured independence in 1405. Prince Amel Glyndŵr is now gravely ill, and with his line facing extinction, he has asked Alexander IV of Scotland to put forward an heir."
+  },
+  "DBY": {
+    "chapter": "麦西亚的自治市",
+    "zh": "英格兰的《大宪章》让米德兰兹城市长期享有自治。1414年罗拉德派起义撼动王权，德比等商业城市趁机脱离伦敦。它们一面竞争、一面合作，如今要在英格兰、约克与苏格兰等势力之间守住独立。",
+    "en": "The Magna Carta gave Midlands towns a tradition of self-rule. After the Lollard rising of 1414 shook the English crown, commercial towns such as Derby broke with London. The towns still trade and compete with one another while trying to preserve their independence among England, York and Scotland."
+  },
+  "DOS": {
+    "chapter": "麦西亚的自治市",
+    "zh": "波顿是麦西亚自治市之一。英格兰王权在1414年罗拉德派起义后衰弱，东米德兰兹诸城借机摆脱伦敦。市民保住了自治，却也必须在与邻城的竞争中寻求合作，以免被不列颠的诸强各个吞并。",
+    "en": "Burton is one of the self-governing towns of Mercia. The weakening of the English crown after the Lollard rising of 1414 let the East Midlands towns break with London. Their citizens have kept their autonomy, but they must cooperate with their rivals if they are to withstand Britain's stronger powers."
+  },
+  "LST": {
+    "chapter": "麦西亚的自治市；英格兰",
+    "zh": "昔日的莱斯特伯爵在刘易斯之战击败亨利三世，迫使王室让出更多权力。此后米德兰兹逐渐形成由市民自治的商业城镇，1414年罗拉德派起义后脱离伦敦。莱斯特如今与其他麦西亚自治市并立，共同面对周边诸侯的压力。",
+    "en": "The earl of Leicester defeated Henry III at Lewes and forced the crown to concede more power. In the following centuries, the commercial towns of the Midlands gained self-rule and broke with London after the Lollard rising of 1414. Leicester now stands with the other Mercian towns against pressure from their neighbors."
+  },
+  "LKS": {
+    "chapter": "兰开斯特和约克",
+    "zh": "爱德华三世在1330年夺回兰开斯特伯爵领，将它经营为英格兰的北部屏障。旧伯爵家族仍保留宣称，1421年的起事却遭镇压；幸存的血脉经伊丽莎白传给约克公爵之子。兰开斯特既是伦敦防线的要地，也是约克年轻公爵试图夺回的祖地。",
+    "en": "Edward III recovered the earldom of Lancaster in 1330 and made it a bulwark of England's northern frontier. The dispossessed family kept its claim, but its 1421 rising was crushed. Its surviving line passed through Elizabeth to the son of the duke of York, who now hopes to recover his ancestral lands."
+  },
+  "YRK": {
+    "chapter": "兰开斯特和约克",
+    "zh": "约克在英格兰王权衰弱时脱离伦敦。年轻的约翰五世既继承约克公爵之位，也经母亲伊丽莎白承袭兰开斯特家族的血脉与夙愿。他有意应理查六世之邀进入伦敦宫廷，借机重夺兰开斯特。",
+    "en": "York broke with London as English royal authority weakened. The young John V inherited the duchy of York and, through his mother Elizabeth, the bloodline and ambitions of Lancaster. He intends to accept Richard VI's invitation to court in the hope of recovering Lancaster from within."
+  },
+  "MHM": {
+    "chapter": "奥斯曼",
+    "zh": "巴耶济德一世死后，艾登与格尔米扬拒绝再听从埃迪尔内。穆拉德二世借塞尔维亚倒戈击败瓦尔纳十字军，却未能统一诸支。年轻的穆罕默德二世继位后镇压耶尼切里兵变，王叔易卜拉欣逃往锡诺普另立门户。",
+    "en": "After Bayezid I's death, Aydin and Germiyan refused to obey Edirne. Murad II defeated the Varna crusade with help from Serbia's change of sides, but did not reunite the Ottoman branches. His young successor Mehmed II suppressed a Janissary mutiny; his uncle Ibrahim escaped and established himself in Sinop."
+  },
+  "AYD": {
+    "chapter": "奥斯曼",
+    "zh": "巴耶济德一世兵败身亡后，镇守艾登的王子与格尔米扬的王子率先拒绝埃迪尔内的命令，声称老苏丹原本就打算将帝国分给二人。艾登在安纳托利亚立足，与新苏丹穆罕默德二世维持着脆弱的停火。",
+    "en": "After Bayezid I's defeat and death, the prince of Aydin and his counterpart in Germiyan rejected Edirne's orders. They claimed the late sultan had intended to divide the empire between them. Aydin established itself in Anatolia and keeps an uneasy truce with the new sultan, Mehmed II."
+  },
+  "GRM": {
+    "chapter": "奥斯曼",
+    "zh": "巴耶济德一世死后，格尔米扬的奥斯曼王子与艾登一道割据，借老苏丹的所谓遗诏抗拒埃迪尔内。穆罕默德二世从格尔米扬手中夺走安卡拉城外一带，眼下双方仍维持停火。",
+    "en": "After Bayezid I died, the Ottoman prince in Germiyan joined Aydin in breaking with Edirne and invoked the late sultan's alleged will to justify his rule. Mehmed II took lands near Ankara from Germiyan, though the two sides now maintain a truce."
+  },
+  "GSR": {
+    "chapter": "塞尔维亚和保加利亚",
+    "zh": "斯特凡·拉扎列维奇摆脱奥斯曼宗主，在巴尔干建立塞尔维亚霸权。他遇刺后，贵族推举原本隐居修道院的约翰·乌罗什继位，诸侯趁机扩大权力。瓦尔纳之战虽暂时保住了帝国的地位，阿尔巴尼亚的反抗和保加利亚的独立已动摇其统治。",
+    "en": "Stefan Lazarević broke with the Ottomans and established Serbian supremacy in the Balkans. After his assassination, the nobles brought John Uroš out of a monastery to take the throne, strengthening their own hand. Varna preserved the empire's standing for a time, but rebellion in Albania and Bulgaria's breakaway have shaken its rule."
+  },
+  "BUL": {
+    "chapter": "塞尔维亚和保加利亚",
+    "zh": "保加利亚曾依附于塞尔维亚。1444年，塞军被调往镇压阿尔巴尼亚起义，康斯坦丁四世乘机取代康斯坦丁三世，加冕为沙皇并宣布独立。他熟悉君士坦丁堡和奥斯曼的制度，希望重建大保加利亚帝国。",
+    "en": "Bulgaria was once dependent on Serbia. In 1444, as Serbian troops moved to suppress the Albanian revolt, Constantine IV displaced Constantine III, crowned himself tsar and declared independence. Familiar with Byzantine and Ottoman institutions, he aspires to restore the Bulgarian Empire."
+  },
+  "ALB": {
+    "chapter": "塞尔维亚和保加利亚",
+    "zh": "阿尔巴尼亚曾把击退奥斯曼的斯特凡·拉扎列维奇视为解放者，随后又落入塞尔维亚的势力范围。1444年，斯坎德培领导的反抗越发激烈，迫使塞尔维亚从保加利亚调兵，也给保加利亚的独立创造了机会。",
+    "en": "Albanians once hailed Stefan Lazarević as a liberator from the Ottomans, then fell within Serbia's sphere. In 1444, resistance under Skanderbeg intensified and forced Serbia to move troops out of Bulgaria, giving the Bulgarians a chance to break away."
+  },
+  "BYZ": {
+    "chapter": "东帝国",
+    "zh": "巴列奥略家族在热那亚援助下夺回君士坦丁堡，重建东帝国。1443年，年轻的安德罗尼卡五世继位，将摩里亚交给挚友狄奥多尔·拉斯卡里斯。狄奥多尔却在威尼斯和西西里的支持下自称皇帝，君士坦丁堡就此失去重要支柱。",
+    "en": "With Genoese aid, the Palaiologoi retook Constantinople and restored the Eastern Empire. The young Andronikos V succeeded in 1443 and entrusted Morea to his close friend Theodore Laskaris. With Venetian and Sicilian backing, Theodore proclaimed himself emperor, stripping Constantinople of a vital stronghold."
+  },
+  "MOE": {
+    "chapter": "东帝国",
+    "zh": "安德罗尼卡五世让从小一同受教、并肩作战的狄奥多尔·拉斯卡里斯镇守摩里亚。狄奥多尔到任后取得威尼斯与西西里的支持，定都米斯特拉斯，以狄奥多尔三世之名自称巴西琉斯，与君士坦丁堡分庭抗礼。",
+    "en": "Andronikos V entrusted Morea to Theodore Laskaris, his childhood friend and comrade in arms. After taking up the post, Theodore secured Venetian and Sicilian backing, made Mystras his capital and proclaimed himself basileus as Theodore III, openly challenging Constantinople."
+  },
+  "FEO": {
+    "chapter": "东帝国",
+    "zh": "安德罗尼卡五世继位后，杜卡斯家族的尼基弗鲁斯带走效忠自己的士兵，联合狄奥多罗的哥特人进攻热那亚在黑海的据点。内忧外患的热那亚未能组织抵抗，失去了这些殖民地。",
+    "en": "After Andronikos V took the throne, Nikephoros Doukas withdrew the troops loyal to him and allied with the Goths of Theodoro to attack Genoa's Black Sea outposts. Beset by troubles at home and abroad, Genoa could not mount a defense and lost its colonies there."
+  },
+  "BOS": {
+    "chapter": "克尔斯蒂亚尼",
+    "zh": "波斯尼亚地处罗马公教与东方正教交界，当地信徒逐渐形成自治教会。克尔斯蒂亚尼使用斯拉夫语礼拜，教会通常不介入世俗事务。巴尔干诸强未能长久控制这片土地，使这一传统得以延续。",
+    "en": "Between the Catholic and Orthodox worlds, local believers in Bosnia developed a self-governing church. The Krstjani worship in Slavonic, and their church generally stays out of secular affairs. The absence of lasting control by the Balkan powers allowed the tradition to survive."
+  },
+  "RAG": {
+    "chapter": "克尔斯蒂亚尼",
+    "zh": "拉古萨的拉丁商人生活在波斯尼亚教会的近邻。设定中有传闻称，为避开罗马教会的课税，其中一些商人对当地的克尔斯蒂亚尼信仰产生了兴趣。",
+    "en": "Ragusa's Latin merchants live next to the lands of the Bosnian Church. According to local rumor, some merchants have taken an interest in the Krstjani faith as a way to escape taxation by the Roman Church."
+  },
+  "AFS": {
+    "chapter": "阿夫沙尔",
+    "zh": "来自东方的阿夫沙尔人攻破特拉布宗，终结了当地科穆宁家族的统治。旧君携财宝出海后下落不明。阿夫沙尔王朝占据了黑海要港，但周边山地仍为反抗者提供据点。",
+    "en": "The Afshars came from the east and took Trebizond, ending Komnenian rule there. The old ruler vanished after taking his treasure out to sea. The dynasty now holds a key Black Sea port, but the surrounding mountains still shelter resistance."
+  },
+  "BKT": {
+    "chapter": "拜克塔什教团",
+    "zh": "易卜拉欣王子联合拜克塔什教团和部分耶尼切里发动兵变，失败后率部夺取锡诺普。流亡的士兵逐渐融入教团，易卜拉欣公开皈依什叶派并自任领袖；此后锡诺普的教团首领由他的后裔担任。",
+    "en": "Prince Ibrahim joined the Bektashi order and some Janissaries in a failed mutiny, then fled with his followers and seized Sinop. The exiled soldiers became part of the order, and Ibrahim publicly embraced Shi'a Islam and declared himself its leader. His descendants would lead the order in Sinop."
+  },
+  "AHE": {
+    "chapter": "阿赫兄弟会",
+    "zh": "阿赫兄弟会在13世纪末逐走罗姆苏丹国长官，把安卡拉变成商人自治的城市。穆罕默德二世借款犒赏耶尼切里，拿苏丹努诺和博卢的包税权作抵押；博卢遇袭后，苏丹最终用两地的管理权抵销债务。",
+    "en": "The Ahi Brotherhood expelled the governor of the Sultanate of Rum in the late thirteenth century and made Ankara a merchant-run city. Mehmed II pledged tax rights in Sultanönü and Bolu to finance Janissary rewards. After Bolu was sacked, he ceded administration of both districts to settle the debt."
+  },
+  "MEN": {
+    "chapter": "门泰谢的皈依者",
+    "zh": "门泰谢的突厥统治家族皈依东正教，试图借新的信仰进入希腊政治圈。他们曾主动向君士坦丁堡示好，却屡遭拒绝。在奥斯曼诸支争雄之际，门泰谢仍希望在东帝国事务中取得一席之地。",
+    "en": "The Turkish ruling family of Mentese embraced Orthodoxy and sought a place in the Greek political world. Its approaches to Constantinople were repeatedly rebuffed. With the Ottoman branches divided, Mentese still hopes to gain a role in the affairs of the Eastern Empire."
+  },
+  "KIE": {
+    "chapter": "基辅大公",
+    "zh": "留里克家族的伊凡一世借金帐汗的支持在南罗斯崛起，后来又趁汗国衰弱扩大势力。他于1440年病逝，继位的安德烈一世冒犯诸王公，又试图向萨莱示好。诸侯与基辅决裂，南罗斯陷入争夺基辅的混战。",
+    "en": "Ivan I of the Rurikids rose in southern Rus' with the backing of the Golden Horde and expanded his power as the khanate weakened. He died in 1440. His successor Andrei I alienated the princes and tried to appease Sarai, driving the region into war over Kyiv."
+  },
+  "VOL": {
+    "chapter": "加利西亚-沃里尼亚",
+    "zh": "加利西亚–沃里尼亚的王权向来受大贵族牵制。伊凡二世凭自身能力压服贵族，使公国成为基辅罗斯内战中的有力争夺者。即使夺得基辅，他仍需面对波兰继承者、立陶宛和东北罗斯诸公国的压力。",
+    "en": "The great nobles have long constrained the ruler of Galicia–Volhynia. Ivan II brought them to heel, making his principality a strong contender in the Kyivan civil war. Even a victory at Kyiv would leave him facing the Polish successor states, Lithuania and the princes of northeastern Rus'."
+  },
+  "ZAZ": {
+    "chapter": "扎波罗热",
+    "zh": "信奉波格米勒派的哥萨克人趁基辅王权衰落，在南疆建立选举盖特曼的政权。他们击败哈吉·格莱的军队，并与热那亚雇佣兵瓜分克里米亚。基辅罗斯陷入内战后，将领们力主参战，盖特曼阿塔曼·博罗夫斯克只得同意。",
+    "en": "Bogomilist Cossacks built a state with an elected hetman on the southern frontier as Kyiv's authority declined. They defeated Haji Giray and divided Crimea with Genoese mercenaries. When Kyivan Rus' fell into civil war, the commanders pressed to join it and Hetman Ataman Borovsk yielded."
+  },
+  "CHR": {
+    "chapter": "切尔尼戈夫",
+    "zh": "切尔尼戈夫曾因反抗金帐汗而被拆散，十五世纪初重建，由掌握本城的家族领有。王公叶夫根尼无意争夺基辅，也不愿向沃里尼亚或扎波罗热称臣，于1443年宣告只为自卫而战。",
+    "en": "Chernigov was dismantled after resisting the Golden Horde and restored in the early fifteenth century under the family that held the city. Prince Yevgeny seeks neither supremacy in Kyiv nor submission to Volhynia or Zaporozhie. In 1443 he declared that Chernigov would fight only in self-defense."
+  },
+  "TVE": {
+    "chapter": "特维尔和莫斯科",
+    "zh": "金帐汗国崩解后，特维尔一度统合了东北罗斯的大部分地区。瓦西里一世于1442年将公国和弗拉基米尔大公头衔传给儿子米哈伊尔，莫斯科的罗斯季斯拉夫却援引旧继承制起兵。随着对方去世，米哈伊尔开始扭转战局。",
+    "en": "Tver came to dominate much of northeastern Rus' as the Golden Horde broke up. In 1442 Vasily I bequeathed Tver and the grand principality of Vladimir to his son Mikhail, but Rostislav of Muscovy invoked the old succession custom and went to war. With Rostislav dead, Mikhail has begun to regain the initiative."
+  },
+  "MOS": {
+    "chapter": "特维尔和莫斯科",
+    "zh": "莫斯科王公罗斯季斯拉夫不承认侄子米哈伊尔按遗嘱继承特维尔，援引罗斯旧例发动战争，一度取得优势。1444年他病逝，儿子亚历山大继位，继承权却不及父亲稳固；莫斯科反而开始面对特维尔的挑战。",
+    "en": "Prince Rostislav of Muscovy rejected his nephew Mikhail's inheritance of Tver and invoked the old succession custom to go to war. He initially prevailed, but died in 1444. His son Alexander succeeded him with a weaker claim, and Muscovy now faces a challenge from Tver."
+  },
+  "NZH": {
+    "chapter": "特维尔和莫斯科",
+    "zh": "下诺夫哥罗德是特维尔在东北罗斯掌握的领地之一。瓦西里一世死后，按遗嘱这里应和特维尔及弗拉基米尔大公头衔一同由米哈伊尔继承；莫斯科的异议却让东北罗斯再度卷入内战。",
+    "en": "Nizhny Novgorod was among the lands controlled by Tver in northeastern Rus'. Vasily I's will passed it to Mikhail along with Tver and the grand principality of Vladimir. Muscovy's challenge to that inheritance threw the region back into civil war."
+  },
+  "TOV": {
+    "chapter": "基辅大公；波格米勒派",
+    "zh": "图罗夫曾由立陶宛割让给基辅的伊凡一世，境内也形成了波格米勒派政权。伊凡死后，图罗夫王公没有卷入争夺基辅的混战，而是与明斯克一样，把注意力放在防备北方的立陶宛。",
+    "en": "Lithuania ceded Turov to Ivan I of Kyiv, and a Bogomilist principality took root there. After Ivan's death, the prince stayed out of the struggle for Kyiv. Like Minsk, Turov turned its attention to defending itself against Lithuania to the north."
+  },
+  "MSK": {
+    "chapter": "基辅大公；立陶宛",
+    "zh": "基辅的伊凡一世击败立陶宛后，维陶塔斯将明斯克和图罗夫让给基辅求和。伊凡死后，明斯克大主教选择不介入南罗斯内战，转而在失去基辅庇护的情况下防备立陶宛。",
+    "en": "After Ivan I of Kyiv defeated Lithuania, Vytautas ceded Minsk and Turov to make peace. When Ivan died, the archbishop of Minsk stayed out of the southern Rus' civil war and prepared to face Lithuania without Kyiv's protection."
+  },
+  "SMO": {
+    "chapter": "斯摩棱斯克",
+    "zh": "1407年，商人议会推翻留里克王公；后来，自耕农与市民又推翻商人议会，建立百人议会。富商和保守派重新掌权后，共和国逐渐变为高压军政府。执政官尤里·罗斯季斯拉维奇加重对农民的盘剥，国内矛盾日益加深。",
+    "en": "A merchants' assembly overthrew the Rurikid prince in 1407. Freeholders and townspeople later displaced that assembly and formed a Council of One Hundred. Wealthy merchants and conservatives regained influence, turning the republic into a repressive military government. Consul Yuri Rostislavich's demands on the peasantry have deepened the unrest."
+  },
+  "PLT": {
+    "chapter": "斯摩棱斯克",
+    "zh": "波洛茨克仍由弗谢斯拉夫的后人统治。这个公国曾同斯摩棱斯克一样抵抗立陶宛的扩张；在罗斯诸国分裂的局势下，它依然必须提防立陶宛大公。",
+    "en": "Polotsk remains under the descendants of Vseslav. Like Smolensk, the principality has resisted Lithuanian expansion in the past. With Rus' divided, its rulers must still contend with the grand duke of Lithuania."
+  },
+  "LIT": {
+    "chapter": "立陶宛",
+    "zh": "维陶塔斯曾借条顿骑士团之力争夺大公之位，后来又与波兰联手，在格伦瓦德重创骑士团。攻打基辅的失利加深了波立嫌隙；维陶塔斯死后，两国解除联合。波兰王冠在瓦尔纳战后破碎，雅盖隆家族遂把重心转回立陶宛。",
+    "en": "Vytautas once enlisted the Teutonic Order in his bid for power, then joined Poland to defeat it at Grunwald. Failure at Kyiv deepened tensions with Poland, and the union ended after his death. When the Polish crown fell apart after Varna, the Jagiellons shifted their attention back to Lithuania."
+  },
+  "TEU": {
+    "chapter": "立陶宛；波兰",
+    "zh": "条顿骑士团曾借立陶宛内斗占据萨莫吉希亚，打通与利沃尼亚骑士团之间的通道。维陶塔斯与雅盖沃后来联手，于1410年在格伦瓦德重创骑士团，立陶宛借此稳住了萨莫吉希亚。",
+    "en": "The Teutonic Order took advantage of Lithuania's internal strife to seize Samogitia and open a land corridor to the Livonian Order. Vytautas and Jogaila later joined forces and dealt the knights a heavy defeat at Grunwald in 1410, securing Samogitia for Lithuania."
+  },
+  "KRA": {
+    "chapter": "波兰",
+    "zh": "瓦迪斯瓦夫三世战死瓦尔纳，未留下子嗣。桑多梅日的胡斯派贵族趁势起事，大波兰与马佐夫舍也不再服从中央。昔日的王国宫廷依然留在克拉科夫，王位却悬而未决，影响力已难越出本地。",
+    "en": "Władysław III died at Varna without a child. Hussite nobles rose in Sandomierz, and Greater Poland and Mazovia slipped from central control. The old royal court remains in Kraków, but the throne is vacant and its authority scarcely extends beyond the region."
+  },
+  "LER": {
+    "chapter": "波兰",
+    "zh": "胡斯战争期间，扬·胡斯的教义传入波兰南部。瓦迪斯瓦夫三世战死后，当地皈依胡斯派的小贵族推翻大贵族，在桑多梅日建立贵族共和国，由「净化委员会」掌握最高权力。",
+    "en": "The Hussite Wars carried Jan Hus's teachings into southern Poland. When Władysław III died, Hussite lesser nobles overthrew their magnate rivals and founded a noble republic at Sandomierz. Its highest authority is the Purification Council."
+  },
+  "GPL": {
+    "chapter": "波兰",
+    "zh": "大波兰公爵谢莫梅斯乌三世与西吉斯蒙德交好，认为帝国诸侯的自治比克拉科夫的集权更有利于抵御条顿骑士团，也能方便他经营波美拉尼亚。以波兹南为中心的大波兰因此不再听命于中央。",
+    "en": "Duke Siemomysł III of Greater Poland has close ties to Sigismund. He sees the autonomy of imperial princes as a better defense against the Teutonic Order than central rule from Kraków, and as an opening into Pomerania. Greater Poland, centered on Poznań, has consequently ceased to obey the royal court."
+  },
+  "MAZ": {
+    "chapter": "波兰",
+    "zh": "瓦尔纳之战后，波兰南北分裂，马佐夫舍也逐渐脱离克拉科夫的掌控。大波兰公爵无意入主克拉科夫，马佐夫舍的皮亚斯特统治者因而成为重掌波兰王冠的可能人选。",
+    "en": "After Varna split Poland between competing powers, Mazovia drifted out of Kraków's control. The duke of Greater Poland showed little interest in taking Kraków, leaving Mazovia's Piast ruler a possible claimant to the Polish crown."
+  },
+  "ASU": {
+    "chapter": "托洛萨会战；阿斯图里亚斯王国",
+    "zh": "托洛萨会战失利后，费尔南多三世在莱昂和卡斯蒂利亚的争斗中胜出，恢复了阿斯图里亚斯王号；拒绝臣服的贵族则在加利西亚建立共和国。1414年向里斯本的进军失利，1444年伊格纳西三世再次发动十字军，目标是图莱图拉。",
+    "en": "After defeat at Las Navas de Tolosa, Ferdinand III prevailed in the struggle between León and Castile and revived the Asturian crown. Nobles who rejected his rule founded a republic in Galicia. An offensive toward Lisbon failed in 1414; in 1444 Ignaci III launched another crusade, this time against Tulaytulah."
+  },
+  "GAL": {
+    "chapter": "阿斯图里亚斯王国",
+    "zh": "托洛萨战败加剧了莱昂与卡斯蒂利亚的争斗。费尔南多三世获胜并恢复阿斯图里亚斯王号后，一批不愿臣服的莱昂贵族带兵据守加利西亚，由本地权贵组成联邦共和国。",
+    "en": "Defeat at Las Navas de Tolosa intensified the conflict between León and Castile. When Ferdinand III prevailed and revived the Asturian crown, Leonese nobles who refused to submit held Galicia with their troops and organized a federal republic led by local elites."
+  },
+  "PRT": {
+    "chapter": "托洛萨会战；阿斯图里亚斯王国",
+    "zh": "里斯本在托洛萨会战之后重新落入穆斯林手中。1414年，波尔图公爵与阿斯图里亚斯国王试图夺回里斯本，但联军在科英布拉以南遭巴塔尔尧斯的阿卜杜拉伏击，收复计划再次搁浅。",
+    "en": "Lisbon returned to Muslim rule after Las Navas de Tolosa. In 1414, the duke of Porto and the king of Asturias tried to retake it. Abdullah of Batalyaws ambushed their joint army south of Coimbra, ending the campaign."
+  },
+  "CAT": {
+    "chapter": "阿拉贡和加泰罗尼亚",
+    "zh": "来自朗格多克的清洁派沿海进入加泰罗尼亚，逐渐形成众多社群。海梅一世远征埃及身亡后，当地信徒起事，驱逐阿拉贡王室官员并建立共和国。加泰罗尼亚由此成为清洁派在伊比利亚的重要据点，外交上靠近阿尔勒。",
+    "en": "Cathars from Languedoc settled along the Catalan coast and built flourishing communities. When James I died on his expedition to Egypt, local Cathars rose, drove out the Aragonese royal officials and founded a republic. Catalonia became a Cathar stronghold in Iberia and maintained close ties with Arles."
+  },
+  "ZRZ": {
+    "chapter": "阿拉贡和加泰罗尼亚",
+    "zh": "海梅一世远征失败后，清洁派夺取加泰罗尼亚，穆尔西亚拿下瓦伦西亚，其余地方势力也各自脱离。昔日阿拉贡王国的宣称者最终只保住萨拉戈萨，在比利牛斯山麓延续旧王国的名号。",
+    "en": "After James I's disastrous expedition, the Cathars took Catalonia, Murcia seized Valencia and other local powers broke away. The claimant to the old Aragonese crown held on to Zaragoza alone, preserving the kingdom's legacy at the foot of the Pyrenees."
+  },
+  "ARC": {
+    "chapter": "阿拉贡和加泰罗尼亚",
+    "zh": "阿拉贡在海梅一世远征失败后四分五裂。南部富裕的特鲁埃尔落入地方寡头手中，成为从旧王国分离的势力之一。",
+    "en": "Aragon splintered after James I's disastrous expedition. In the south, local oligarchs took control of wealthy Teruel, creating one of the states that broke away from the old kingdom."
+  },
+  "MUC": {
+    "chapter": "阿拉贡和加泰罗尼亚",
+    "zh": "海梅一世死后，加泰罗尼亚的清洁派起事，阿拉贡王国迅速瓦解。穆尔西亚的埃米尔趁机率军北上，突袭夺取富裕的瓦伦西亚，把势力扩展到旧阿拉贡的地中海沿岸。",
+    "en": "After James I died, the Catalan Cathar uprising accelerated Aragon's collapse. The emir of Murcia marched north and captured wealthy Valencia in a surprise attack, extending his reach along the old kingdom's Mediterranean coast."
+  },
+  "BDH": {
+    "chapter": "巴塔尔尧斯泰法",
+    "zh": "穆瓦希德王朝衰落后，巴塔尔尧斯成为安达卢西亚最强大的泰法之一。阿卜杜拉一世于1414年伏击基督徒联军，赢得「安达卢西亚之剑」的名号。三十年间他守住了边界，如今年迈，继承和国内宗教矛盾都变得难以回避。",
+    "en": "Batalyaws rose to become one of the strongest taifas of al-Andalus after the Almohads declined. Abdullah I earned the name Sword of al-Andalus by ambushing a Christian coalition in 1414. After three decades of defending his borders, the aging ruler now faces an unsettled succession and religious tensions at home."
+  },
+  "TLD": {
+    "chapter": "阿斯图里亚斯王国；巴塔尔尧斯泰法",
+    "zh": "穆瓦希德王朝无力继续控制伊比利亚领地，图莱图拉与其他南方泰法并立。基督徒与穆斯林诸国长期相持，直到1444年，阿斯图里亚斯的伊格纳西三世以图莱图拉为目标发动新一轮十字军。",
+    "en": "The Almohads could no longer hold their Iberian possessions, and Tulaytulah stood among the southern taifas. Christian and Muslim powers remained in a long stalemate until 1444, when Ignaci III of Asturias made Tulaytulah the target of a new crusade."
+  },
+  "MLO": {
+    "chapter": "伦巴第",
+    "zh": "维斯康蒂家族从米兰崛起。菲利波借米兰大主教掌握选侯席位，又获「意大利王副」头衔；他倚重行会，并让城市代表参与国政。老公爵没有公认的继承人，佣兵统帅弗朗切斯科·斯福尔扎已经把目光投向伦巴第。",
+    "en": "The Visconti rose to power in Milan. Filippo gained an electoral vote through the archbishop and the title Viceroy of Italy, relying on the guilds and admitting city representatives into government. The aging duke has no widely accepted heir, and the condottiere Francesco Sforza has set his sights on Lombardy."
+  },
+  "MAI": {
+    "chapter": "《金玺诏书》；伦巴第",
+    "zh": "1356年颁布的《金玺诏书》为美因茨保留了帝国唯一的教会选侯席位。1414年，伦巴第凭在帝国的影响力促使西吉斯蒙德把这一席位交给米兰大主教，美因茨失去了推选皇帝的权力。",
+    "en": "The Golden Bull of 1356 left Mainz as the empire's only ecclesiastical elector. In 1414, Lombardy persuaded Sigismund to transfer the seat to the archbishop of Milan, depriving Mainz of its vote in imperial elections."
+  },
+  "GEN": {
+    "chapter": "热那亚的萨伏伊王朝",
+    "zh": "热那亚因十字军贸易兴起，后在基奥贾之战败给威尼斯。佣兵首领菲利贝托·迪·萨伏伊借战功夺取政权，卡洛继位后平定共和派，却失去了多处海外据点。1444年圣乔治银行停业，旧日海上强权陷入低谷。",
+    "en": "Genoa prospered through crusading trade before its defeat by Venice at Chioggia. The mercenary commander Filiberto di Savoia seized power, and Carlo put down the republican opposition while losing several overseas possessions. The Bank of Saint George closed in 1444, deepening the former maritime power's troubles."
+  },
+  "COR": {
+    "chapter": "热那亚的萨伏伊王朝",
+    "zh": "萨伏伊家族夺取热那亚后，卡洛不得不将力量集中到本土以平定共和派。失去支援的海外领地接连脱离，科西嘉也在这一轮动荡中摆脱热那亚控制。",
+    "en": "After the House of Savoy took Genoa, Carlo concentrated his forces at home to defeat the republican opposition. Without support, Genoa's overseas holdings slipped away one after another. Corsica broke free of Genoese control in the upheaval."
+  },
+  "VEN": {
+    "chapter": "威尼斯的丹多洛王朝",
+    "zh": "第四次十字军让威尼斯取得众多海外领地，也使丹多洛家族得以将共和国变成事实上的君主国。弗朗切斯科公爵在内外受挫后交出政权，又没有男性后嗣。财阀家族正试图利用继承危机推翻丹多洛的统治。",
+    "en": "The Fourth Crusade gave Venice overseas possessions and allowed the Dandolo family to turn the republic into a de facto monarchy. After setbacks at home and abroad, Duke Francesco relinquished power. He has no male heir, and wealthy families are preparing to use the succession crisis to end Dandolo rule."
+  },
+  "PIT": {
+    "chapter": "皮埃蒙特",
+    "zh": "清洁派起事把萨伏伊王朝逐出祖地，皮埃蒙特由此成为清洁派在北意大利的据点。它与萨伏依同被称为「姊妹共和国」，却都宣称都灵应归自己。东方富庶的伦巴第也让都灵的执政官不敢掉以轻心。",
+    "en": "Cathar revolts drove the House of Savoy from its ancestral lands and made Piedmont a Cathar stronghold in northern Italy. Piedmont and Savoy are called sister republics, yet both claim Turin. To the east, wealthy Lombardy remains a threat the consuls of Turin cannot ignore."
+  },
+  "SAV": {
+    "chapter": "皮埃蒙特；热那亚的萨伏伊王朝",
+    "zh": "阿尔比十字军失败后，清洁派占据萨伏依旧公爵领并建立共和国，旧王朝的旁支后来在热那亚掌权。萨伏依依赖阿尔勒，并援引旧公爵的权利主张都灵；这使它和同为清洁派的皮埃蒙特长期不和。",
+    "en": "After the Albigensian crusades failed, Cathars took the old duchy of Savoy and established a republic. A branch of the former ruling house later gained power in Genoa. Savoy depends on Arles and invokes the old dukes' claims to Turin, keeping it at odds with fellow Cathars in Piedmont."
+  },
+  "APU": {
+    "chapter": "两西西里",
+    "zh": "《阿马尔菲和约》分割西西里王国后，欧特维尔家族保住了意大利半岛的领地。半岛西西里此后在贵族叛乱中解体，威廉三世于1260年只获准保留阿普利亚和莱切的公爵头衔，阿普利亚成为旧诺曼王朝留下的核心领地。",
+    "en": "The Treaty of Amalfi split the kingdom of Sicily but left the Hautevilles their lands on the Italian mainland. A noble revolt later broke up mainland Sicily. In 1260 William III was allowed to keep only the ducal titles of Apulia and Lecce, leaving Apulia as the heart of what remained of Norman rule."
+  },
+  "CBI": {
+    "chapter": "两西西里",
+    "zh": "《阿马尔菲和约》将西西里岛与半岛领地分开。半岛西西里的欧特维尔王权未能渡过此后的贵族叛乱，旧王国瓦解，海峡北岸的卡拉布里亚也进入了南意大利诸侯分立的时代。",
+    "en": "The Treaty of Amalfi divided Sicily from its mainland lands. Hauteville rule on the mainland did not survive the subsequent noble revolt. As the old kingdom broke apart, Calabria on the northern shore of the strait entered an era of divided rule in southern Italy."
+  },
+  "PUA": {
+    "chapter": "两西西里",
+    "zh": "卡普阿所在的南意大利曾是欧特维尔家族的「半岛西西里」。坦克雷德死后，霍亨施陶芬家族煽动贵族反抗其继承人，王权终于覆灭，卡普阿与其他半岛诸侯在旧王国的土地上分立。",
+    "en": "The lands around Capua once belonged to the Hautevilles' mainland kingdom of Sicily. After Tancred's death, the Hohenstaufens encouraged noble opposition to his heir. The old monarchy fell, and Capua and the other mainland states emerged from its former territory."
+  },
+  "BEV": {
+    "chapter": "两西西里",
+    "zh": "贝内文托所在的南意大利经历了西西里王国的分裂。欧特维尔家族曾保住半岛王位，但在霍亨施陶芬家族煽动的贵族纷争中败北，贝内文托由此置身于诸侯各立的半岛格局。",
+    "en": "Benevento lies in the southern Italian lands shaped by the division of the Sicilian kingdom. The Hautevilles initially kept the mainland crown, but lost it amid noble conflicts encouraged by the Hohenstaufens, leaving Benevento among the divided powers of the peninsula."
+  },
+  "SIC": {
+    "chapter": "两西西里",
+    "zh": "《阿马尔菲和约》将西西里岛与半岛分开，岛上后来有大批希腊移民定居。流亡的米海尔·安杰洛斯夺岛，自称伊萨克三世；伊萨克四世进军摩里亚却因病折返。皇帝死后，军政大权落到护国公与军事贵族手中。",
+    "en": "The Treaty of Amalfi separated Sicily from the mainland, and Greek settlers later established sizable communities on the island. The exiled Michael Angelos seized Sicily and took the name Isaac III. Isaac IV campaigned in Morea but turned back due to illness. After his death, a protector and his military council took charge."
+  },
+  "SWE": {
+    "chapter": "卡尔马联盟",
+    "zh": "埃里克治下的卡尔马联盟因战争和国内矛盾而动摇，瑞典的农民和矿工于1434年起事。卡尔八世乘丹麦内战掌握国政，随后以武力夺得埃里克许诺却拒不交付的斯科讷，并交由格里芬家族管理。",
+    "en": "War and internal tensions weakened Eric's Kalmar Union, and Swedish peasants and miners rose in 1434. Charles VIII took control of Swedish affairs during the Danish civil war. He later seized Scania, which Eric had promised but refused to hand over, and placed it under Griffin administration."
+  },
+  "NOR": {
+    "chapter": "卡尔马联盟；哥得兰",
+    "zh": "挪威自1397年起与丹麦、瑞典同属卡尔马联盟。埃里克雇私掠者袭击卑尔根的汉萨商站，火势烧毁了大片城区，挪威议会迫使他解除合约。丹麦内战爆发后，挪威与瑞典实际脱离了旧联盟。",
+    "en": "Norway joined Denmark and Sweden in the Kalmar Union in 1397. When Eric's privateers attacked the Hanseatic station at Bergen and burned much of the city, the Norwegian council forced him to end their contract. Denmark's civil war then saw Norway and Sweden slip out of the old union."
+  },
+  "SKN": {
+    "chapter": "卡尔马联盟",
+    "zh": "丹麦内战中，埃里克许诺用斯科讷换取瑞典出兵，平乱后却不肯履约。卡尔八世遂以武力取得斯科讷，并交由格里芬家族治理，把这里变成瑞典继续向丹麦诸城施压的前沿。",
+    "en": "During the Danish civil war, Eric promised Scania in return for Swedish troops but refused to hand it over once the revolt was put down. Charles VIII took Scania by force and entrusted it to the Griffins, turning it into a foothold for Swedish pressure on the Danish towns."
+  },
+  "ABO": {
+    "chapter": "卡尔马联盟",
+    "zh": "丹麦市民对国王埃里克日益失去信任，曾在奥胡斯聚会制定商业邦联计划。1439年的市民运动迫使埃里克让权，各自治市组成邦联，后来又借加入神圣罗马帝国应对瑞典威胁。",
+    "en": "Danish townspeople, increasingly wary of King Eric, met at Aarhus to plan a commercial confederation. The civic uprising of 1439 forced Eric to yield power. The autonomous towns formed a league and later entered the Holy Roman Empire to counter the Swedish threat."
+  },
+  "SHL": {
+    "chapter": "卡尔马联盟",
+    "zh": "荷尔斯泰因曾在皇帝仲裁后暂时向埃里克臣服。丹麦贵族与市民相继起事，卡尔马联盟瓦解；荷尔斯泰因伯爵借1439年的市民运动摆脱埃里克，恢复独立。",
+    "en": "Holstein temporarily submitted to Eric following imperial arbitration. Revolts by the Danish nobles and townspeople unraveled the Kalmar Union, and the count of Holstein used the civic uprising of 1439 to break with Eric and regain independence."
+  },
+  "GOT": {
+    "chapter": "哥得兰",
+    "zh": "丹麦于1361年夺取了原本自治的哥得兰。埃里克十三世失去丹麦王位后仍驻在岛上，等待复辟，但当地人没有忘记维斯比的创伤。此时，老私掠者克劳斯·斯托特贝克也率粮食兄弟会重返波罗的海，准备争夺这座岛。",
+    "en": "Denmark seized the once self-governing island of Gotland in 1361. Eric XIII remained there after losing the Danish crown, hoping for a restoration, but islanders had not forgotten the violence at Visby. The veteran privateer Klaus Störtebeker and his Victual Brothers are now returning to contest the island."
+  },
+  "FYM": {
+    "chapter": "萨哈达王朝；罗塞塔家族",
+    "zh": "萨哈达原是也门的小国，纳西尔一世趁马穆鲁克内斗夺取埃及，成为统治两地的大马利克。帝国依赖马穆鲁克军人、叙利亚诸埃米尔和阿拉伯部落维持统治。穆罕默德一世死后，萨法尔一世难以驾驭各方，担任大维齐尔的罗塞塔家族也在暗中图谋。",
+    "en": "Sahada began as a small Yemeni state. Nasir I seized Egypt during the Mamluk struggles and became Grand Malik of a realm spanning Egypt and Arabia. The empire depended on Mamluk soldiers, Syrian emirs and Arabian tribes. After Muhammad I died, Safar I struggled to hold them together as the Rosetta family plotted from the office of grand vizier."
+  },
+  "LEB": {
+    "chapter": "黎巴嫩共和国",
+    "zh": "马穆鲁克失去对叙利亚的控制后，易卜拉欣·雅各布宣布黎巴嫩独立，却以苛政激起反抗。曾游历加泰罗尼亚的军官穆罕默德·哈里里发动政变，建立有民选议会的共和国，并以向萨哈达效忠换取自治。",
+    "en": "When the Mamluks lost control of Syria, Ibrahim Yaqub declared Lebanon independent, but his harsh rule provoked resistance. Muhammad Hariri, an officer who had traveled in Catalonia, overthrew him and founded a republic with an elected assembly. He secured autonomy by pledging loyalty to Sahada."
+  },
+  "ETH": {
+    "chapter": "埃塞俄比亚",
+    "zh": "所罗门王朝在扎拉·雅各布治下进入扩张时期。东非高原的地方领主握有重兵和财力，万王之王以恰瓦军团巩固统治。阿达尔仍是传统劲敌；北方的萨哈达逐渐衰弱，也让埃塞俄比亚有了向尼罗河下游伸展的机会。",
+    "en": "Ethiopia expanded under Zara Yaqob of the Solomonic dynasty. Regional lords on the highlands retained considerable military and economic power, while the emperor used the Chewa regiments to strengthen his rule. Adal remains a longstanding rival, and Sahada's decline opens a path toward the lower Nile."
+  },
+  "ADA": {
+    "chapter": "埃塞俄比亚",
+    "zh": "阿达尔苏丹国曾败于所罗门王朝，却仍是埃塞俄比亚在非洲之角的传统对手。扎拉·雅各布治下的埃塞俄比亚重新扩张，阿达尔依旧准备捍卫本地区的穆斯林势力。",
+    "en": "The Sultanate of Adal once suffered defeat at the hands of the Solomonic dynasty, but remains Ethiopia's traditional rival in the Horn of Africa. As Ethiopia expands under Zara Yaqob, Adal is ready to defend Muslim power in the region."
+  },
+  "AJU": {
+    "chapter": "埃塞俄比亚",
+    "zh": "阿朱兰苏丹国是索马里海岸的主要强权。它谋求统一各索马里部族，并掌握红海与印度洋之间的贸易网络；北方的埃塞俄比亚也在扎拉·雅各布治下扩张。",
+    "en": "The Ajuran Sultanate is a leading power on the Somali coast. It seeks to unite the Somali peoples and control trade between the Red Sea and the Indian Ocean, while Ethiopia expands under Zara Yaqob to the north."
+  },
+  "CDC": {
+    "chapter": "儿童十字军",
+    "zh": "克鲁瓦的史蒂芬带领十字军从热那亚出航，于1221年夺取突尼斯。进攻埃及失利后，他与圣殿骑士团以杰尔巴岛为界分配领土，北部归史蒂芬建立的突尼西亚王国。这个海外王国仍在寻求欧洲诸强援助，以筹备下一次圣战。",
+    "en": "Stephen of Cloyes sailed from Genoa and took Tunis with his crusaders in 1221. After the Egyptian campaign failed, he and the Templars divided their conquests at Djerba. The northern lands formed Stephen's kingdom of Tunisia, which still seeks European support for another crusade."
+  },
+  "KTP": {
+    "chapter": "儿童十字军",
+    "zh": "圣殿骑士团参与克鲁瓦的史蒂芬发起的十字军。攻下突尼斯后，骑士团选择沿北非海岸进军，最终因埃及战局逆转撤围班加西。战后，他们依约取得杰尔巴岛以南的土地，与突尼西亚王国互为屏障，却也长期摩擦。",
+    "en": "The Templars joined Stephen of Cloyes's crusade. After the capture of Tunis they advanced along the North African coast, lifting the siege of Benghazi when the war in Egypt turned against the crusaders. The settlement left them the lands south of Djerba, where they have remained uneasy neighbors of the kingdom of Tunisia."
+  },
+  "MRK": {
+    "chapter": "托洛萨会战；穆瓦希德王朝",
+    "zh": "穆瓦希德虽在1212年的托洛萨会战取胜，仍挡不住伊比利亚的总督自立和马格里布的诸族反叛。马林王朝夺走非斯等地，却未能攻下马拉喀什。穆瓦希德与后法蒂玛长期交好，在马格里布的均势中谋求复兴。",
+    "en": "The Almohads won at Las Navas de Tolosa in 1212 but could not stop Iberian governors from breaking away or tribes from rebelling in the Maghreb. The Marinids took Fez but failed to capture Marrakesh. With friendly ties to the later Fatimids, the Almohads seek a recovery amid the region's uneasy balance of power."
+  },
+  "FEZ": {
+    "chapter": "穆瓦希德王朝",
+    "zh": "扎纳塔部族的马林王朝在13世纪反抗穆瓦希德，占据非斯和周边领地。1258年的南征未能拿下马拉喀什，塔菲拉勒特也倒回对方阵营。此后马林王朝倚靠安达卢西亚泰法的支援，与穆瓦希德长期对峙。",
+    "en": "The Marinids of the Zanata rose against the Almohads in the thirteenth century and captured Fez and surrounding lands. Their southern campaign of 1258 failed to take Marrakesh, and Tafilalt returned to the Almohad side. With aid from the Andalusian taifas, the Marinids have remained locked in rivalry with the Almohads."
+  },
+  "TFL": {
+    "chapter": "穆瓦希德王朝",
+    "zh": "塔菲拉勒特位于摩洛哥内陆，由萨阿迪王朝统治。马林势力扩张时，当地一度转向扎纳塔部族；1258年马林军在马拉喀什战败，萨阿迪王朝随即重新倒向穆瓦希德。",
+    "en": "In inland Morocco, Tafilalt is ruled by the Saadi dynasty. It sided with the Zanata during the Marinid advance, but returned to the Almohad camp after the Marinid army was defeated at Marrakesh in 1258."
+  },
+  "FDM": {
+    "chapter": "后法蒂玛王朝",
+    "zh": "法蒂玛末裔苏莱曼·伊本·达乌德在1205年逃离埃及，趁穆瓦希德内乱夺取卡比利亚和阿尔及尔沿岸，建立后法蒂玛王朝。两百年后，易卜拉欣·侯赛因二世筹备向西探寻黄金航路，王朝也没有忘记夺回埃及的旧愿。",
+    "en": "Sulayman ibn Dawud, the last Fatimid heir, fled Egypt in 1205. He took Kabylia and the coast of Algiers amid Almohad unrest and founded the later Fatimid dynasty. Two centuries on, Ibrahim Husayn II prepares to seek a western sea route to the lands of gold, while his house still dreams of recovering Egypt."
+  },
+  "TIM": {
+    "chapter": "帖木儿",
+    "zh": "帖木儿从西察合台崛起，入侵伊朗失败后退守河中。沙哈鲁赢得继承战争，将撒马尔罕建成科学和文艺中心。如今他在征讨叛乱时负伤，王后支持费尔干纳的阿老倒剌，指定继承人兀鲁伯又远在喜萨尔，帝国面临新的继承之争。",
+    "en": "Timur rose from the western Chagatai realm and withdrew to Transoxiana after his rule in Iran collapsed. Shah Rukh won the succession war and made Samarkand a center of science and the arts. Now wounded while quelling a rebellion, he faces a new succession struggle: his queen backs Ala al-Dawla of Ferghana, while his chosen heir Ulugh Beg is away in Hisar."
+  },
+  "HSS": {
+    "chapter": "帖木儿",
+    "zh": "喜萨尔位于帖木儿领地面向卡尔提德王朝的前线。沙哈鲁派长子兀鲁伯到此镇守，以锻炼这位醉心天文和数学的继承人。沙哈鲁负伤后，兀鲁伯远离撒马尔罕，王后转而筹划拥立费尔干纳总督。",
+    "en": "Hisar stands on the Timurid frontier facing the Kartids. Shah Rukh sent his eldest son Ulugh Beg there to give his chosen heir, an astronomer and mathematician, experience in government. When Shah Rukh was wounded, Ulugh Beg was far from Samarkand and the queen began to promote the governor of Ferghana."
+  },
+  "KOK": {
+    "chapter": "帖木儿",
+    "zh": "拜宋豁儿早逝后，儿子阿老倒剌受命镇守富庶的费尔干纳。沙哈鲁负伤后，王后高哈尔绍德试图让自己偏爱的这位孙子取代兀鲁伯继位；北方的月即别汗国也觊觎这片盆地。",
+    "en": "After Baysunghur's early death, his son Ala al-Dawla was put in charge of prosperous Ferghana. With Shah Rukh wounded, Queen Gawhar Shad favors this grandson over Ulugh Beg as heir. The Uzbek Khanate to the north also covets the valley."
+  },
+  "KHI": {
+    "chapter": "帖木儿",
+    "zh": "花剌子模由沙哈鲁的孙子阿卜勒-卡西姆·巴八儿镇守。兄弟苏丹·穆罕默德在呼罗珊起兵后被萨巴达尔所杀，王后则支持另一位孙子阿老倒剌继位；巴八儿留在花剌子模观望撒马尔罕的局势。",
+    "en": "Shah Rukh's grandson Abu'l-Qasim Babur governs Khwarezm. His brother Sultan Muhammad rebelled in Khorasan and was killed by the Sarbadars, while the queen backs another grandson, Ala al-Dawla, for the succession. Babur remains in Khwarezm, watching events in Samarkand."
+  },
+  "AFG": {
+    "chapter": "费拉赫部族；帖木儿",
+    "zh": "卡尔提德王朝曾在费拉赫部族的影响下皈依景教。伊朗的帖木儿势力衰退后，卡尔提德仍是河中南面的一方强权。沙哈鲁派长子兀鲁伯驻守喜萨尔，防备来自卡尔提德的威胁。",
+    "en": "The Kartid dynasty adopted the Church of the East under Ferah influence. After Timurid power receded in Iran, the Kartids remained a force south of Transoxiana. Shah Rukh sent his eldest son Ulugh Beg to guard Hisar against them."
+  },
+  "SHY": {
+    "chapter": "月即别",
+    "zh": "术赤兀鲁思瓦解后，阿布海尔重夺昔班系的青帐故地，逐步统一草原诸部。南面的帖木儿继承危机为夺取河中和费尔干纳创造了机会；但部族与宗教矛盾仍在，诺盖诸部也开始动摇。",
+    "en": "After the Jochid realm fell apart, Abu'l-Khayr recovered the Shibanid lands of the Blue Horde and united much of the steppe. The Timurid succession crisis gives him an opening into Transoxiana and Ferghana, but tribal and religious divisions persist, and the Nogai tribes are restive."
+  },
+  "GOL": {
+    "chapter": "大帐与喀山",
+    "zh": "脱脱迷失死后，金帐汗国再度分裂，大帐成为其最直接的继承者。库楚克·马黑麻仍控制萨莱和阿斯特拉罕，草原诸部却陆续脱离。曾受可汗节制的罗斯诸王公也逐渐壮大，准备挣脱大帐的约束。",
+    "en": "After Tokhtamysh's death, the Golden Horde broke up again. The Great Horde is its most direct successor. Küchük Muhammad still holds Sarai and Astrakhan, but steppe tribes are drifting away. The princes of Rus', once answerable to the khan, have grown stronger and are ready to cast off his authority."
+  },
+  "KAZ": {
+    "chapter": "大帐与喀山",
+    "zh": "被逐出金帐权力中心后，脱脱迷失的孙子兀鲁·马黑麻沿伏尔加河北上，在保加尔斯坦建立喀山汗国，并两度宣称自己是金帐大汗。伏尔加河的商路和附近矿藏让喀山富庶，也引来了觊觎者。",
+    "en": "Driven from the center of Golden Horde power, Tokhtamysh's grandson Ulugh Muhammad went north along the Volga and founded the Kazan Khanate in Bulgar lands. He twice proclaimed himself khan of the Golden Horde. Volga trade and nearby mines enrich Kazan and make it a target for outsiders."
+  },
+  "HZB": {
+    "chapter": "伊利汗国的哈扎拉比摄政",
+    "zh": "以「千马」闻名的哈扎拉比家族曾替伊利汗统治扎格罗斯山区。金帐军攻破大不里士后，他们迎回被废的女汗撒迪别，借她的正统性与其他诸侯周旋。撒迪别死后，儿子苏尔干及其后人仍保有汗位，实权由哈扎拉比掌握。",
+    "en": "The Hazaraspids, known as the Thousand Horses, once governed the Zagros mountains for the Ilkhans. After the Golden Horde took Tabriz, they restored the deposed khatun Sati Beg and used her legitimacy in dealings with rival lords. Her son Surgan and his descendants kept the title, while the Hazaraspids held real power."
+  },
+  "AKK": {
+    "chapter": "白羊与黑羊",
+    "zh": "白羊王朝在帖木儿势力退去后崛起，吞并杜勒卡迪尔和拉马赞，把势力推进到地中海东岸并取得阿勒颇。乌尊·哈桑取代父亲，将他安置在穆什，自己则准备展开新的征服。",
+    "en": "Aq Qoyunlu rose after the Timurid retreat, absorbing Dulkadir and Ramazan and reaching the eastern Mediterranean with the capture of Aleppo. Uzun Hasan displaced his father and settled him in Mush while preparing new conquests of his own."
+  },
+  "AK1": {
+    "chapter": "白羊与黑羊",
+    "zh": "白羊王朝西进并夺取阿勒颇后，乌尊·哈桑取代了父亲的统治，将父亲安置于穆什。穆什由此成为这位旧君的安置地，白羊王朝的扩张则由乌尊·哈桑继续推动。",
+    "en": "After Aq Qoyunlu expanded west and took Aleppo, Uzun Hasan displaced his father and installed him in Mush. The former ruler remained there while his son continued to lead the confederation's expansion."
+  },
+  "TBR": {
+    "chapter": "白羊与黑羊",
+    "zh": "黑羊王朝在伊朗割据中一度崛起，却因阿尔图克自立、伊拉克景教徒离心而迅速衰退，最终只得退守大不里士。正统王子贾汗·沙长期流亡，黑羊部族仍在等候他回来。",
+    "en": "Qara Qoyunlu rose amid the wars in Iran but declined rapidly as the Artuqids asserted their independence and Christians in Iraq withdrew their support. The confederation fell back on Tabriz, where its tribes still await the return of the exiled prince Jahan Shah."
+  },
+  "ART": {
+    "chapter": "白羊与黑羊",
+    "zh": "帖木儿退出伊朗后，白羊和黑羊竞逐两河与扎格罗斯周边。立足伊拉克的阿尔图克王朝没有被白羊吞并，也在黑羊试图扩张时保住了自己的统治。",
+    "en": "After Timur withdrew from Iran, Aq Qoyunlu and Qara Qoyunlu competed for Mesopotamia and the lands near the Zagros. The Artuqids held their ground in Iraq, resisting Aq Qoyunlu and preserving their own rule during Qara Qoyunlu's rise."
+  },
+  "HSN": {
+    "chapter": "白羊与黑羊",
+    "zh": "阿尤布王朝在库尔德斯坦延续了统治。帖木儿势力退去后，白羊迅速壮大，夺下阿勒颇和地中海东岸的多处领地，却未能取代库尔德斯坦的阿尤布家族。",
+    "en": "The Ayyubid dynasty retained its rule in Kurdistan. Aq Qoyunlu expanded quickly after the Timurid retreat and took Aleppo and other lands along the eastern Mediterranean, but failed to dislodge the Ayyubids from Kurdistan."
+  },
+  "ARL": {
+    "chapter": "萨法维教团",
+    "zh": "萨法维是兴起于阿尔达比勒的苏菲教团。萨德尔修建父亲萨非的陵墓，使小城成为朝觐地；教团也得到安纳托利亚和叙利亚土库曼部族的支持。到易卜拉欣主持教团时，信徒继续汇集于此，教团还以救济贫民扩大影响。",
+    "en": "The Safavids began as a Sufi order in Ardabil. Sadr al-Din built a shrine for his father Safi, making the town a place of pilgrimage. The order also gained followers among the Turkmen tribes of Anatolia and Syria. Under Ibrahim, devotees continued to gather in Ardabil, where charitable relief strengthened the order's standing."
+  },
+  "FRH": {
+    "chapter": "费拉赫部族",
+    "zh": "费拉赫人相传是克烈部和乃蛮部的后裔，在波斯东南山区保存了景教信仰，还影响了卡尔提德王朝。合赞汗改宗后，原有的保护不再可靠；他们曾与帖木儿结盟，见他被萨巴达尔击败便离开了这一联盟。",
+    "en": "The Ferah are said to descend from the Keraites and Naimans. In the mountains of southeastern Iran they kept the faith of the Church of the East and influenced the Kartid dynasty. Ghazan's conversion ended their former security. They allied with Timur for a time but broke with him after the Sarbadars defeated him."
+  },
+  "SBD": {
+    "chapter": "萨巴达尔",
+    "zh": "萨巴达尔由呼罗珊出走的军头组成，曾联合伏击帖木儿，后来趁苏丹·穆罕默德叛乱夺取马什哈德。穆罕默德·阿里试图把各自为政的军阀组织成统一国家，以应对帖木儿诸支与月即别汗国的压力。",
+    "en": "The Sarbadars grew out of military leaders displaced from Khorasan. They joined forces to ambush Timur and later took Mashhad during Sultan Muhammad's rebellion. Muhammad Ali seeks to turn the rival warlords into a united state capable of facing the Timurid princes and the Uzbek Khanate."
+  },
+  "KRM": {
+    "chapter": "穆扎法尔",
+    "zh": "伊利汗国陷入混乱时，亚兹德总督加重了对祆教徒的征敛，其子沙阿·肖贾却暗中和当地祆教徒结盟。1358年祆教徒包围亚兹德，肖贾囚禁父亲并成为信奉祆教的沙阿，使圣火信徒重新拥有自己的国家。",
+    "en": "As Ilkhanid rule fell into turmoil, the governor of Yazd imposed heavier demands on Zoroastrians. His son Shah Shuja secretly allied with them. In 1358, Zoroastrian rebels surrounded Yazd, and Shuja imprisoned his father and took power as a Zoroastrian shah, restoring a state of their own to the faithful."
+  },
+  "AK2": {
+    "chapter": "红羊王朝",
+    "zh": "定居两河的部分突厥部众接受了东方教会的信仰。伊利汗国瓦解后，他们先受雇于巴格达的札剌亦儿，后来推翻雇主、抵抗大不里士的黑羊，建立信奉基督教的红羊王朝，并趁帖木儿势力衰退扩大疆土。",
+    "en": "Some Turkic settlers in Mesopotamia embraced the Church of the East. After the Ilkhanate fell, they served the Jalayirids of Baghdad before overthrowing them and resisting the Qara Qoyunlu of Tabriz. They founded the Christian Red Sheep dynasty and expanded into lands vacated by the Timurids."
+  },
+  "ORM": {
+    "chapter": "霍尔木兹",
+    "zh": "霍尔木兹从波斯海岸迁到海峡岛上，凭航运和海军发展成波斯湾的贸易枢纽。它后来失去波斯海岸的据点，又遭阿拉伯半岛诸强围攻。新苏丹法赫尔丁曾在撒马尔罕学习，希望借波斯文化与制度重振岛国。",
+    "en": "Hormuz moved from the Persian coast to an island in the strait and built a Gulf trading hub through shipping and naval power. It later lost its mainland footholds and came under pressure from Arabian powers. Its new sultan, Fakhr al-Din, studied in Samarkand and hopes to revive the island realm by drawing on Persian culture and institutions."
+  },
+  "BDX": {
+    "chapter": "巴达克山的阿吉德家族",
+    "zh": "兴都库什山中的巴达克山以「巴剌思」红色宝石闻名。米尔苏丹·穆罕默德一族自称亚历山大大帝的后裔，长期以宝石向帖木儿王朝进贡以保平安。撒马尔罕的继承危机让这个山国看到了摆脱宗主的机会。",
+    "en": "Badakhshan, in the Hindu Kush, is famed for its red balas gems. The family of its mir, Sultan Muhammad, claims descent from Alexander the Great and has long paid gem tribute to the Timurids to preserve its lands. The succession crisis in Samarkand offers the mountain principality a chance to break away."
+  },
+  "TAB": {
+    "chapter": "马赞德兰的萨珊王朝",
+    "zh": "自称萨珊皇室后裔的巴文德王朝于1409年重新控制马赞德兰，实权却渐落入乌理玛之手。1439年，王子阿尔达希尔率祆教徒起义，失败后被放逐。到了1444年，许多百姓表面依旧信奉伊斯兰，私下却重新祭祀圣火。",
+    "en": "The Bavandids, descendants of the Sasanian royal house, regained Mazandaran in 1409, but real power slipped to the ulama. Prince Ardashir led a Zoroastrian uprising in 1439 and was exiled after its defeat. By 1444, many people outwardly still practice Islam while privately honoring the sacred fire."
+  },
+  "YUA": {
+    "chapter": "大元",
+    "zh": "元廷在农民起义中准许地方豪强组织团练，依靠他们和脱脱稳住了局面，却失去了对多数地方的有效控制。朝廷仍掌握北直隶北部和蒙古草原；地方军阀各据一方，长江下游的吴王已经成为最强的诸侯。",
+    "en": "During the uprisings, the Yuan court let local elites organize militias. With their aid and that of Toqto'a, it survived the crisis but lost effective control of much of the country. The court retains northern Beizhili and the Mongolian steppe, while regional powers rule their own lands and the prince of Wu has emerged as the strongest among them."
+  },
+  "WUU": {
+    "chapter": "大元",
+    "zh": "元末起义未能推翻元廷，朱元璋也没有统一天下。他的后裔却据有富庶的长江下游，延续吴王的统治。元廷对地方的控制日益衰退，吴由此成为势力最强的诸侯，仍在等待时机。",
+    "en": "The uprisings did not overthrow the Yuan, and Zhu Yuanzhang failed to unite the realm. His descendants nevertheless kept the wealthy lower Yangtze under the princes of Wu. As Yuan authority over the provinces faded, Wu became the most powerful regional state and continues to await its chance."
+  },
+  "LIA": {
+    "chapter": "辽",
+    "zh": "辽王国为大元镇守东疆，境内的蒙古贵族必须协调汉人、女真部族和朝鲜人。现任辽王是元帝的叔叔，幼年时错过帝位，转而在辽地倚重汉人，并收养了一位汉人义子。元廷衰落，也让辽王面临新的抉择。",
+    "en": "Liao guards the Yuan's eastern frontier, where a small Mongol nobility must balance Han communities, Jurchen tribes and Koreans. The prince of Liao, the Yuan emperor's uncle, lost his chance at the throne as a child. He has since relied on Han allies and adopted a Han son. As Yuan power declines, his realm faces a choice of allegiances."
+  },
+  "DLH": {
+    "chapter": "德里苏丹国的图格鲁克王朝",
+    "zh": "菲鲁兹沙死后，地方总督纷纷独立，赛义德家族一度夺取德里。易卜拉欣重聚苏丹国，恢复扎吉尔制度，却使地方军政长官掌握更大权力。年迈的苏丹仰赖西尔欣德的洛迪家族，而洛迪已可能威胁图格鲁克王朝。",
+    "en": "After Firuz Shah died, provincial governors declared independence and the Sayyids briefly seized Delhi. Ibrahim reunited the sultanate and restored the jagir system, giving provincial commanders considerable power. The aging sultan relies on the Lodis of Sirhind, who may now threaten the Tughlaq dynasty itself."
+  },
+  "SRH": {
+    "chapter": "德里苏丹国的图格鲁克王朝",
+    "zh": "西尔欣德的洛迪家族掌握了德里境内许多阿富汗贵族的支持。苏丹倚重他们维持地方秩序，历代授予家族权力。巴赫卢尔·洛迪成为家主后，外界开始传言他有意进军德里，取代图格鲁克王朝。",
+    "en": "The Lodis of Sirhind command the support of many of Delhi's Afghan nobles. Successive sultans granted them power in return for maintaining order in loyal provinces. Since Bahlul Lodi took charge of the family, rumors have spread that he intends to march on Delhi and supplant the Tughlaqs."
+  },
+  "HSA": {
+    "chapter": "哥得兰；卡尔马联盟",
+    "zh": "粮食兄弟会袭扰北海商船，吕贝克于1400年与汉堡、不来梅及卡尔马联盟联合对付海盗。后来埃里克开征海峡税，与汉萨同盟公开交战，又雇用昔日的海盗袭击卑尔根商站。丹麦邦联取代王国后，汉萨诸城和丹麦重新联手围剿兄弟会。",
+    "en": "When the Victual Brothers raided North Sea shipping, Lübeck joined Hamburg, Bremen and the Kalmar Union against them in 1400. Eric's Sound Dues later brought him into open conflict with the Hanseatic League, and he hired the pirates to attack its station at Bergen. The Danish confederation eventually joined the league against them again."
+  },
+  "HAM": {
+    "chapter": "哥得兰",
+    "zh": "粮食兄弟会在易北河口劫掠过往商船，汉堡的船只是主要目标之一。1400年，汉堡同吕贝克、不来梅及卡尔马联盟结盟，随后出动舰队打击兄弟会，并迫使东弗里斯兰的城市停止庇护海盗。",
+    "en": "The Victual Brothers attacked shipping at the mouth of the Elbe, making Hamburg's vessels a particular target. In 1400 Hamburg joined Lübeck, Bremen and the Kalmar Union against them. The allies sent their fleets after the pirates and forced towns in East Frisia to stop sheltering them."
+  },
+  "BRE": {
+    "chapter": "哥得兰",
+    "zh": "不来梅的商船在威悉河口遭粮食兄弟会袭扰。为保护北海商路，不来梅于1400年与汉堡、吕贝克和卡尔马联盟合作，汉萨舰队后来在赫尔戈兰附近与兄弟会交战，双方损失惨重。",
+    "en": "Bremen's ships faced raids by the Victual Brothers at the mouth of the Weser. To protect North Sea trade, Bremen allied with Hamburg, Lübeck and the Kalmar Union in 1400. The Hanseatic fleet later met the pirates off Heligoland in a battle that cost both sides heavily."
+  },
+  "SUG": {
+    "chapter": "门泰谢的皈依者",
+    "zh": "门泰谢的突厥统治家族皈依东正教，试图把小亚细亚的希腊人团结在自己的旗帜下。士麦那人却把门泰谢也视为出卖过自己的势力，双方共享的信仰并未消除旧怨。",
+    "en": "The Turkic rulers of Mentese embraced Orthodoxy and tried to rally the Greeks of Asia Minor to their cause. The people of Smyrna still counted Mentese among those who had betrayed them, and a shared faith did little to erase that grievance."
+  },
+  "RUP": {
+    "chapter": "波美拉尼亚的格里芬家族",
+    "zh": "格里芬家族的梅克伦堡支系陷入继承纠纷，鲁平藩侯趁机夺取了它的领地。鲁平的扩张让仍据有沃尔加斯特和斯德丁的格里芬诸支意识到，下一次继承危机也可能让他们失去家园。",
+    "en": "The margrave of Ruppin took advantage of a succession dispute in the Mecklenburg branch of the Griffins to seize its lands. Ruppin's expansion warned the surviving Griffin branches in Wolgast and Stettin that another succession crisis could cost them their own duchies."
+  }
+}
