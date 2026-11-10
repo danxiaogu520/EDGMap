@@ -79,7 +79,7 @@ def build_panel_assets(vanilla, mod, output):
     court = load_rgba(interface / 'country_court_view_bg.dds')
     save_sprite(court.crop((17, 125, 549, 150)), panel_dir / 'ruler-banner.webp')
     gender = load_rgba(interface / 'gender_icon.dds')
-    for index, name in enumerate(('male', 'female')):
+    for index, name in enumerate(('female', 'male')):
         save_sprite(gender.crop((16 * index, 0, 16 * (index + 1), 16)), panel_dir / f'{name}.webp')
     religion_strip = load_rgba(mod / 'gfx/interface/icon_religion_small.dds')
     religion_dir = panel_dir / 'religions'
